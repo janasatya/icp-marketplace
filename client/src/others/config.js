@@ -1,5 +1,5 @@
 export const ALCHEMY_KEY='https://testnet.bitfinity.network'
-export const Contract_Address='0xc69ACE2Ad18cF9d9912b6Adb2eD072ed63da9118'
+export const Contract_Address='0x7072570DFd223d9853fE002a981c2D59D4B6C1a9'
 export const pinata={
 APIKey: "7645bec6d1ed386b7a5e",
  APISecret: "9dcd82d4ee42e331132784fd820fde135ecb89c2d4f9bcf122258ce8bfe5052b",
